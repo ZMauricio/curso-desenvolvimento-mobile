@@ -1,0 +1,3 @@
+[submodule "aula-02-routing-menu"]
+	path = aula-02-routing-menu
+	url = git@github.com:ZMauricio/curso-desenvolvimento-mobile.git
